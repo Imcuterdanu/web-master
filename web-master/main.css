@@ -42,12 +42,6 @@ body {
 	min-width: 750px;
 }
 
-p3 {
-	float: left;
-	margin-right: 50px;
-	min-width: 750px;
-}
-
 form {
 	border-style: solid;
 	border-color: blue;
@@ -94,6 +88,6 @@ a:hover {
 	padding: 10px;
 }
 
-.rice {
-	color: black;
+.upper {
+	float: 1000px;
 }
